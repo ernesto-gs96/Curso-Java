@@ -7,11 +7,11 @@ public class Cadena {
          * siendo una clase en JAVA
          */
 
-        String mensaje = "Soy un String";
-        System.out.println(mensaje);
+        String cadena = "Soy un String";
+        System.out.println(cadena);
 
         // Como es una clase de igual modo se puede declarar de la siguiente manera
-        String mensaje2 = new String("Tambien soy un String");
-        System.out.println(mensaje2);
+        String cadena2 = new String("Tambien soy un String");
+        System.out.println(cadena2);
     }
 }
