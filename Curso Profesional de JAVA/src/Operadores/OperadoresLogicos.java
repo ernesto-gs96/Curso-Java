@@ -1,3 +1,4 @@
+package Operadores;
 public class OperadoresLogicos {
     public static void main(String[] args) {
         int numero1 = 5, numero2 = 5;

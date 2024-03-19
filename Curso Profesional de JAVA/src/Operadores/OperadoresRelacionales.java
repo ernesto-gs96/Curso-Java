@@ -1,3 +1,4 @@
+package Operadores;
 public class OperadoresRelacionales {
     public static void main(String[] args) {
         int variable1 = 200, variable2 = 200;

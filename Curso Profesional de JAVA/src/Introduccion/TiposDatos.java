@@ -1,3 +1,4 @@
+package Introduccion;
 public class TiposDatos {
     public static void main(String[] args){
         // Tipos enteros

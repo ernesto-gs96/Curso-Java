@@ -1,3 +1,4 @@
+package Introduccion;
 public class DeclaracionMultiple {
     public static void main(String[] args){
         /*

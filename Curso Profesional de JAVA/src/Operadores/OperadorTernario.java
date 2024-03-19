@@ -1,3 +1,4 @@
+package Operadores;
 public class OperadorTernario {
     public static void main(String[] args) {
         final int edadPermitida = 18;

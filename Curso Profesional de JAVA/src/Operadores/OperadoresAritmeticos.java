@@ -1,3 +1,4 @@
+package Operadores;
 public class OperadoresAritmeticos {
     public static void main(String[] args){
         int variableX = 50, variableY = 10;
