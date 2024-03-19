@@ -10,5 +10,8 @@ public class DeclaracionMultiple {
         a = 'a';
         b = 'b';
         c = 'c';
+
+        System.out.println( numero1 + numero2 + numero3 );
+        System.out.println( a + b + c );
     }
 }

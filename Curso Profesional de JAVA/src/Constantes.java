@@ -11,5 +11,8 @@ public class Constantes {
         // No permitido
         // veces = 10;
         // bandera = false;
+
+        System.out.println(veces);
+        System.out.println(bandera);
     }
 }
