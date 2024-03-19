@@ -1,6 +1,6 @@
 public class Casting {
     public static void main(String[] args) {
-        int variableX = 50, variableY = 10;
+        int variableX = 50;
         float variableZ = 5.5f;
         int resultado;
 
