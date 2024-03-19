@@ -1,7 +1,14 @@
 package Condicionales;
 
-public class IfElse {
+public class CondicionalIfElse {
     public static void main(String[] args) {
+        /*
+         * Para ver el condicional IF ELSE consideramos el siguiente ejercicio:
+         * Se necesita validar el color de luz para avanzar, tomando los siguientes casos
+         * Si tiene la luz es de color 'Verde' 'Puede avanzar'
+         * Si tiene la luz es de color 'Rojo' 'No puede avanzar'
+         */
+
         final String colorAvanzar = "Verde";
         String colorLuz = "Verde";
         String mensaje = "";

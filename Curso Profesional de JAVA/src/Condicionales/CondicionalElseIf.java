@@ -1,7 +1,14 @@
 package Condicionales;
 
-public class ElseIf {
+public class CondicionalElseIf {
     public static void main(String[] args) {
+        /*
+         * Para ver el condicional ELSE IF consideramos el siguiente ejercicio:
+         * Se necesita validar el color de luz para avanzar, tomando los siguientes casos
+         * Si tiene la luz es de color 'Verde' 'Puede avanzar'
+         * Si tiene la luz es de color 'Amarillo' 'Aún puede avanzar'
+         * Si tiene la luz es de color 'Rojo' 'No puede avanzar'
+         */
         final String colorAvanzar = "Verde";
         final String colorAunAvanzar = "Amarillo";
         String colorLuz = "Verde";
