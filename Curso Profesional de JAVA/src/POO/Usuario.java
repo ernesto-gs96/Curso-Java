@@ -11,6 +11,16 @@ public class Usuario {
     private String password;
 
     // Constructor
+    public Usuario(){
+        this.username = "";
+        this.password = "";
+    }
+
+    public Usuario(String usename){
+        this.username = usename;
+        this.password = "";
+    }
+
     public Usuario(String username, String password){
         this.username = username;
         this.password = password;
