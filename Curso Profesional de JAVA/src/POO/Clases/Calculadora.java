@@ -1,4 +1,4 @@
-package POO;
+package POO.Clases;
 
 public class Calculadora {
     /*

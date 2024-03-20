@@ -1,5 +1,7 @@
 package POO;
 
+import POO.Clases.Calculadora;
+
 public class MultiplesParametros {
     public static void main(String[] args) {
         Calculadora calculadora = new Calculadora();

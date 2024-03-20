@@ -1,5 +1,7 @@
 package POO;
 
+import POO.Clases.Usuario;
+
 public class ModificadoresAcceso {
     public static void main(String[] args) {
         Usuario usuario = new Usuario("Sin asignar","Sin asignar");

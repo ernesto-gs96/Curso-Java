@@ -1,5 +1,7 @@
 package POO;
 
+import POO.Clases.Triangulo;
+
 public class RetornarValores {
     public static void main(String[] args) {
         Triangulo triangulo = new Triangulo();

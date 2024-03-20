@@ -1,4 +1,4 @@
-package POO;
+package POO.Clases;
 
 public class Usuario {
     // Modificadores de acceso
@@ -24,6 +24,19 @@ public class Usuario {
     public Usuario(String username, String password){
         this.username = username;
         this.password = password;
+    }
+
+    public void establecerRol(){
+        Administrador admin = new Administrador();
+        admin.trabajar();
+    }
+
+    // Clase anidada
+    public class Administrador {
+        // Las clases anidadas tiene acceso a los atributos y metodos de la clase principal
+        public void trabajar(){
+            System.out.printf("\nEl administrador %s se encuentra trabajando",username);
+        }
     }
 
     public void saluda(){

@@ -1,5 +1,7 @@
 package POO;
 
+import POO.Clases.Usuario;
+
 public class SobreCargaConstructor {
     public static void main(String[] args) {
         Usuario usuario1 = new Usuario();

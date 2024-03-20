@@ -1,5 +1,7 @@
 package POO;
 
+import POO.Clases.Perro;
+
 public class Metodos {
     public static void main(String[] args) {
         Perro perro = new Perro();

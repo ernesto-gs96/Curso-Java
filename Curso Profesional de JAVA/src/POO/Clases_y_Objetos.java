@@ -1,5 +1,7 @@
 package POO;
 
+import POO.Clases.Perro;
+
 public class Clases_y_Objetos {
     public static void main(String[] args) {
         // Instancia de la clase

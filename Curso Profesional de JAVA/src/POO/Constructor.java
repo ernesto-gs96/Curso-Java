@@ -1,5 +1,7 @@
 package POO;
 
+import POO.Clases.Usuario;
+
 public class Constructor {
     public static void main(String[] args) {
         Usuario usuario = new Usuario("ernestogs", "123abc");

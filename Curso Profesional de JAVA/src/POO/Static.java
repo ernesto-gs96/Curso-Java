@@ -1,5 +1,7 @@
 package POO;
 
+import POO.Clases.Circulo;
+
 public class Static {
     public static void main(String[] args) {
         // Cuando un atributo es estatico podemos acceder a el sin anicializarla
