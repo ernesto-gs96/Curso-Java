@@ -2,7 +2,7 @@ package POO.Clases;
 
 // Una clase abstracta debe tener al menos un metodo abstracto
 public abstract class Figura {
-    private int numeroLados;
+    private int numeroLados = 1;
 
     public Figura(){
         this.numeroLados = 0;
@@ -10,4 +10,8 @@ public abstract class Figura {
 
     // Metodo abstracto
     public abstract float area();
+
+    public void verNumeroLados(){
+        System.out.println(numeroLados);
+    };
 }
