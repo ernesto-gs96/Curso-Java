@@ -31,7 +31,7 @@ public class PrimitivosEnteros {
         System.out.println("valor máximo de un long: " + Long.MAX_VALUE);
         System.out.println("valor mínimo de un long: " + Long.MIN_VALUE);
 
-        var numeroVar = 9223372036854775808f;
+        // var numeroVar = 9223372036854775808f;
 
     }
 }
