@@ -1,0 +1,31 @@
+import java.util.Locale;
+import java.util.ResourceBundle;
+
+public class LocalizationExample {
+
+    public static void main(String[] args) {
+        // Definir el idioma y la región
+        Locale localeEs = new Locale("es", "ES"); // Español (España)
+        Locale localeEn = new Locale("en", "US"); // Inglés (Estados Unidos)
+        Locale localeFr = new Locale("fr", "FR"); // Francés (Francia)
+
+        // Cargar el archivo de propiedades según el idioma seleccionado
+        ResourceBundle bundleEs = ResourceBundle.getBundle("messages", localeEs);
+        ResourceBundle bundleEn = ResourceBundle.getBundle("messages", localeEn);
+        ResourceBundle bundleFr = ResourceBundle.getBundle("messages", localeFr);
+
+        // Obtener el mensaje de saludo y la configuración de la divisa
+        String helloEs = bundleEs.getString("hello.message");
+        String helloEn = bundleEn.getString("hello.message");
+        String helloFr = bundleFr.getString("hello.message");
+
+        String currencySymbolEs = bundleEs.getString("currency.symbol");
+        String currencySymbolEn = bundleEn.getString("currency.symbol");
+        String currencySymbolFr = bundleFr.getString("currency.symbol");
+
+        // Mostrar el mensaje de saludo y la configuración de la divisa
+        System.out.println("Español: " + helloEs + " " + currencySymbolEs);
+        System.out.println("English: " + helloEn + " " + currencySymbolEn);
+        System.out.println("Français: " + helloFr + " " + currencySymbolFr);
+    }
+}
