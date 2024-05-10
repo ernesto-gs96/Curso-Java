@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3670f2e-9c3c-48a5-aeb7-913f23a05da9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../3_desplazamiento_elementos.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArregloDetectarOrden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArregloNotasAlumnos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosBuscarNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosBuscarString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosDesplazarPosicion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosDesplazarPosicion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosDesplazarPosicion2b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosDesplazarPosicion3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosNumeroMayor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosParesImpares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemplosArreglosEliminarElemento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2fBe8jdWi2TT9SHPSzXrRVLo7ig" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EjemploArregloDetectarOrden.executor": "Run",
+    "Application.EjemploArregloNotasAlumnos.executor": "Run",
+    "Application.EjemploArreglosDesplazarPosicion2b.executor": "Run",
+    "Application.EjemploArreglosDesplazarPosicion3b.executor": "Run",
+    "Application.EjemploArreglosNumeroMayor.executor": "Run",
+    "Application.EjemploArreglosParesImpares.executor": "Run",
+    "Application.EjemplosArreglosEliminarElemento.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/cgarcia/Desktop/Curso-Java/02-Máster Completo en Java de cero a experto 2024/12_Arreglos/Arreglos"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3670f2e-9c3c-48a5-aeb7-913f23a05da9" name="Changes" comment="" />
+      <created>1713278740865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713278740865</updated>
+    </task>
+    <servers />
+  </component>
+</project>
